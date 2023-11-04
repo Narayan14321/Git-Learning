@@ -9,8 +9,6 @@ Hello narayan i am narayan3 branch
 This changes done through website
 
 This is another change in README.md
-Hello India well done in icc world cup
-
-xyz here many time 
+Hello India well done in icc world cuo
 
 India vs China conflict
