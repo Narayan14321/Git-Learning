@@ -6,6 +6,4 @@ This repository is built step by step in the tutorial.
 
 Hello narayan i am narayan3 branch
 
-Myself diligent
-
-Hello Narayan Choudhary,
+This changes done through website
